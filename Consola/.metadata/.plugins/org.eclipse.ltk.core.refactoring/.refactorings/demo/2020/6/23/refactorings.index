@@ -3,3 +3,9 @@
 1591050107537	Rename type 'IPersona'
 1591064112889	Rename package 'com.example.demo'
 1591064304502	Rename package 'com.zjimenez.demo'
+1591066583851	Rename type 'PersonaServiceImpl'
+1591066603158	Copy compilation unit
+1591066668029	Rename type 'PersonaServiceImpl1'
+1591066671800	Delete element
+1591066681617	Rename type 'PersonaRepoImpl'
+1591066686817	Copy compilation unit
