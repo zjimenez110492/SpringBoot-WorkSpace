@@ -1,0 +1,5 @@
+package com.zjimenez.service;
+
+public interface IPersonaRepo {
+	void registrar();
+}

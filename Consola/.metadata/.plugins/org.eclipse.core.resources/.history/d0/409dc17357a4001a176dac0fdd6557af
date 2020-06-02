@@ -1,0 +1,13 @@
+package com.zjimenez.service;
+
+import com.zjimenez.repository.IPersonaRepo;
+
+public class PersonaServiceImpl implements IPersonaService{
+	private IPersonaRepo repo;
+	@Override
+	public void registrar(String nombre) {
+			repo.registrar(nombre);
+
+	}
+
+}
