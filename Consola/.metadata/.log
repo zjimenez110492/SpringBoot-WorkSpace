@@ -229,3 +229,15 @@ org.eclipse.jface.text.templates.TemplateException: Template has incomplete vari
 
 !ENTRY org.eclipse.jdt.debug 2 0 2020-06-01 20:59:33.078
 !MESSAGE Unable to find location of java.lang.Thread.setName() in debuggee JVM, for type java.lang.Thread
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-01 23:38:17.366
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.SYUuEnwr
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-01 23:38:17.476
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.SYUuEnwr
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-01 23:38:17.477
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-01 23:38:17.478
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.SYUuEnwr => OK

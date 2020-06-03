@@ -15,6 +15,7 @@ public class  PersonaServiceImpl implements IPersonaService{
 
 private static Logger LOG= LoggerFactory.getLogger(PersonaServiceImpl.class);
 	@Autowired
+	@Qualifier("persona1")
 	private IPersonaRepo repo;
 	@Override
 	public void registrar(String nombre) {	
